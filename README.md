@@ -1,2 +1,2 @@
-# Leetcode_Solutions
+# LeetCode_Solutions
 My daily LeetCode solutions.
