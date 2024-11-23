@@ -6,7 +6,7 @@ A collection of my solutions to LeetCode problems.
 
 ### Array / String
 - [88. Merge Sorted Array](./88_Merge_Sorted_Array.py)
-- [27. Remove Element](./27_Remove_Element)
+- [27. Remove Element](./27_Remove_Element.py)
 
 
 ### Two Pointers
