@@ -28,6 +28,8 @@ A collection of my solutions to LeetCode problems.
 - [6. Zigzag Conversion](./Solutions/6_Zigzag_Conversion.py)
 - [28. Find the Index of the First Occurrence in a String](./Solutions/28_Find_the_Index_of_the_First_Occurrence_in_a_String.py)
 - [68. Text Justification](./Solutions/68_Text_Justification.py)
+- [217. Contains Duplicate](./Solutions/217_Contains_Duplicate.py)
+- [347. Top K Frequent Elements](./Solutions/347_Top_K_Frequent_Elements.py)
 
 
 ### Two Pointers
@@ -43,6 +45,9 @@ A collection of my solutions to LeetCode problems.
 - [3. Longest Substring Without Repeating Characters](./Solutions/3_Longest_Substring_Without_Repeating_Characters.py)
 - [30. Substring with Concatenation of All Words](./Solutions/30_Substring_with_Concatenation_of_All_Words.py)
 - [76. Minimum Window Substring](./Solutions/76_Minimum_Window_Substring.py)
+- [424. Longest Repeating Character Replacement](./Solutions/424_Longest_Repeating_Character_Replacement.py)
+- [567. Permutation in String](./Solutions/567_Permutation_in_String.py)
+- [239. Sliding Window Maximum](./Solutions/239_Sliding_Window_Maximum.py)
 
 
 ### Matrix
@@ -78,6 +83,9 @@ A collection of my solutions to LeetCode problems.
 - [155. Min Stack](./Solutions/155_Min_Stack.py)
 - [150. Evaluate Reverse Polish Notation](./Solutions/150_Evaluate_Reverse_Polish_Notation.py)
 - [224. Basic Calculator](./Solutions/224_Basic_Calculator.py)
+- [739. Daily Temperatures](./Solutions/739_Daily_Temperatures.py)
+- [853. Car Fleet](./Solutions/853_Car_Fleet.py)
+- [84. Largest Rectangle in Histogram](./Solutions/84_Largest_Rectangle_in_Histogram.py)
 
 
 ### Linked List
@@ -92,6 +100,9 @@ A collection of my solutions to LeetCode problems.
 - [61. Rotate List](./Solutions/61_Rotate_List.py)
 - [86. Partition List](./Solutions/86_Partition_List.py)
 - [146. LRU Cache](./Solutions/146_LRU_Cache.py)
+- [206. Reverse Linked List](./Solutions/206_Reverse_Linked_List.py)
+- [143. Reorder List](./Solutions/143_Reorder_List.py)
+- [287. Find the Duplicate Number](./Solutions/287_Find_the_Duplicate_Number.py)
 
 
 ### Binary Tree General
@@ -109,6 +120,12 @@ A collection of my solutions to LeetCode problems.
 - [173. Binary Search Tree Iterator](./Solutions/173_Binary_Search_Tree_Iterator.py)
 - [222. Count Complete Tree Nodes](./Solutions/222_Count_Complete_Tree_Nodes.py)
 - [236. Lowest Common Ancestor of a Binary Tree](./Solutions/236_Lowest_Common_Ancestor_of_a_Binary_Tree.py)
+- [543. Diameter of Binary Tree](./Solutions/543_Diameter_of_Binary_Tree.py)
+- [110. Balanced Binary Tree](./Solutions/110_Balanced_Binary_Tree.py)
+- [572. Subtree of Another Tree](./Solutions/572_Subtree_of_Another_Tree.py)
+- [235. Lowest Common Ancestor of a Binary Search Tree](./Solutions/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py)
+- [1448. Count Good Nodes in Binary Tree](./Solutions/1448_Count_Good_Nodes_in_Binary_Tree.py)
+- [297. Serialize and Deserialize Binary Tree](./Solutions/297_Serialize_and_Deserialize_Binary_Tree.py)
 
 
 ### Binary Tree BFS
@@ -133,7 +150,7 @@ A collection of my solutions to LeetCode problems.
 - [210. Course Schedule II](./Solutions/210_Course_Schedule_II.py)
 
 
-### BGraph BFS
+### Graph BFS
 - [909. Snakes and Ladders](./Solutions/909_Snakes_and_Ladders.py)
 - [433. Minimum Genetic Mutation](./Solutions/433_Minimum_Genetic_Mutation.py)
 - [127. Word Ladder](./Solutions/127_Word_Ladder.py)
@@ -153,6 +170,11 @@ A collection of my solutions to LeetCode problems.
 - [52. N-Queens II](./Solutions/52_N-Queens_II.py)
 - [22. Generate Parentheses](./Solutions/22_Generate_Parentheses.py)
 - [79. Word Search](./Solutions/79_Word_Search.py)
+- [78. Subsets](./Solutions/78_Subsets.py)
+- [90. Subsets II](./Solutions/90_Subsets_II.py)
+- [40. Combination Sum II](./Solutions/40_Combination_Sum_II.py)
+- [131. Palindrome Partitioning](./Solutions/131_Palindrome_Partitioning.py)
+- [51. N-Queens](./Solutions/51_N-Queens.py)
 
 
 ### Divide & Conquer
@@ -175,6 +197,9 @@ A collection of my solutions to LeetCode problems.
 - [34. Find First and Last Position of Element in Sorted Array](./Solutions/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)
 - [153. Find Minimum in Rotated Sorted Array](./Solutions/153_Find_Minimum_in_Rotated_Sorted_Array.py)
 - [4. Median of Two Sorted Arrays](./Solutions/4_Median_of_Two_Sorted_Arrays.py)
+- [704. Binary Search](./Solutions/704_Binary_Search.py)
+- [875. Koko Eating Bananas](./Solutions/875_Koko_Eating_Bananas.py)
+- [981. Time Based Key-Value Store](./Solutions/981_Time_Based_Key-Value_Store.py)
 
 
 ### Heap
