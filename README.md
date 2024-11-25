@@ -207,6 +207,11 @@ A collection of my solutions to LeetCode problems.
 - [502. IPO](./Solutions/502_IPO.py)
 - [373. Find K Pairs with Smallest Sums](./Solutions/373_Find_K_Pairs_with_Smallest_Sums.py)
 - [295. Find Median from Data Stream](./Solutions/295_Find_Median_from_Data_Stream.py)
+- [703. Kth Largest Element in a Stream](./Solutions/703_Kth_Largest_Element_in_a_Stream.py)
+- [1046. Last Stone Weight](./Solutions/1046_Last_Stone_Weight.py)
+- [973. K Closest Points to Origin](./Solutions/973_K_Closest_Points_to_Origin.py)
+- [621. Task Scheduler](./Solutions/621_Task_Scheduler.py)
+- [355. Design Twitter](./Solutions/355_Design_Twitter.py)
 
 
 ### Bit Manipulation
