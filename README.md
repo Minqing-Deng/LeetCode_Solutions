@@ -148,6 +148,10 @@ A collection of my solutions to LeetCode problems.
 - [399. Evaluate Division](./Solutions/399_Evaluate_Division.py)
 - [207. Course Schedule](./Solutions/207_Course_Schedule.py)
 - [210. Course Schedule II](./Solutions/210_Course_Schedule_II.py)
+- [695. Max Area of Island](./Solutions/695_Max_Area_of_Island.py)
+- [994. Rotting Oranges](./Solutions/994_Rotting_Oranges.py)
+- [417. Pacific Atlantic Water Flow](./Solutions/417_Pacific_Atlantic_Water_Flow.py)
+- [684. Redundant Connection](./Solutions/684_Redundant_Connection.py)
 
 
 ### Graph BFS
