@@ -126,6 +126,7 @@ A collection of my solutions to LeetCode problems.
 - [235. Lowest Common Ancestor of a Binary Search Tree](./Solutions/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py)
 - [1448. Count Good Nodes in Binary Tree](./Solutions/1448_Count_Good_Nodes_in_Binary_Tree.py)
 - [297. Serialize and Deserialize Binary Tree](./Solutions/297_Serialize_and_Deserialize_Binary_Tree.py)
+- [449. Serialize and Deserialize BST](./Solutions/449_Serialize_and_Deserialize_BST.py)
 
 
 ### Binary Tree BFS
@@ -225,6 +226,7 @@ A collection of my solutions to LeetCode problems.
 - [136. Single Number](./Solutions/136_Single_Number.py)
 - [137. Single Number II](./Solutions/137_Single_Number_II.py)
 - [201. Bitwise AND of Numbers Range](./Solutions/201_Bitwise_AND_of_Numbers_Range.py)
+- [371. Sum of Two Integers](./Solutions/371_Sum_of_Two_Integers.java)
 
 
 ### Math
@@ -234,6 +236,7 @@ A collection of my solutions to LeetCode problems.
 - [69. Sqrt(x)](./Solutions/69_Sqrt(x).py)
 - [50. Pow(x, n)](./Solutions/50_Pow(x_n).py)
 - [149. Max Points on a Line](./Solutions/149_Max_Points_on_a_Line.py)
+- [268. Missing Number](./Solutions/268_Missing_Number.py)
 
 
 ### 1D DP
@@ -242,6 +245,16 @@ A collection of my solutions to LeetCode problems.
 - [139. Word Break](./Solutions/139_Word_Break.py)
 - [322. Coin Change](./Solutions/322_Coin_Change.py)
 - [300. Longest Increasing Subsequence](./Solutions/300_Longest_Increasing_Subsequence.py)
+- [746. Min Cost Climbing Stairs](./Solutions/746_Min_Cost_Climbing_Stairs.py)
+- [213. House Robber II](./Solutions/213_House_Robber_II.py)
+- [647. Palindromic Substrings](./Solutions/647_Palindromic_Substrings.py)
+- [91. Decode Ways](./Solutions/91_Decode_Ways.py)
+- [152. Maximum Product Subarray](./Solutions/152_Maximum_Product_Subarray.py)
+- [416. Partition Equal Subset Sum](./Solutions/416_Partition_Equal_Subset_Sum.py)
+- [435. Non-overlapping Intervals](./Solutions/435_Non-overlapping_Intervals.py)
+- [62. Unique Paths](./Solutions/62_Unique_Paths.py)
+- [338. Counting Bits](./Solutions/338_Counting_Bits.py)
+- [1143. Longest Common Subsequence](./Solutions/1143_Longest_Common_Subsequence.py)
 
 
 ### Multidimensional DP
@@ -252,3 +265,10 @@ A collection of my solutions to LeetCode problems.
 - [97. Interleaving String](./Solutions/97_Interleaving_String.py)
 - [72. Edit Distance](./Solutions/72_Edit_Distance.py)
 - [221. Maximal Square](./Solutions/221_Maximal_Square.py)
+
+
+### Greedy
+- [846. Hand of Straights](./Solutions/846_Hand_of_Straights.py)
+- [1899. Merge Triplets to Form Target Triplet](./Solutions/1899_Merge_Triplets_to_Form_Target_Triplet.py)
+- [763. Partition Labels](./Solutions/763_Partition_Labels.py)
+- [678. Valid Parenthesis String](./Solutions/678_Valid_Parenthesis_String.py)
