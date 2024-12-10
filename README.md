@@ -30,6 +30,8 @@ A collection of my solutions to LeetCode problems.
 - [68. Text Justification](./Solutions/68_Text_Justification.py)
 - [217. Contains Duplicate](./Solutions/217_Contains_Duplicate.py)
 - [347. Top K Frequent Elements](./Solutions/347_Top_K_Frequent_Elements.py)
+- [75. Sort Colors](./Solutions/75_Sort_Colors.py)
+- [8. String to Integer (atoi)](./Solutions/8_String_to_Integer_(atoi).py)
 
 
 ### Two Pointers
@@ -48,6 +50,7 @@ A collection of my solutions to LeetCode problems.
 - [424. Longest Repeating Character Replacement](./Solutions/424_Longest_Repeating_Character_Replacement.py)
 - [567. Permutation in String](./Solutions/567_Permutation_in_String.py)
 - [239. Sliding Window Maximum](./Solutions/239_Sliding_Window_Maximum.py)
+- [438. Find All Anagrams in a String](./Solutions/438_Find_All_Anagrams_in_a_String.py)
 
 
 ### Matrix
@@ -56,6 +59,8 @@ A collection of my solutions to LeetCode problems.
 - [48. Rotate Image](./Solutions/48_Rotate_Image.py)
 - [73. Set Matrix Zeroes](./Solutions/73_Set_Matrix_Zeroes.py)
 - [289. Game of Life](./Solutions/289_Game_of_Life.py)
+- [733. Flood Fill](./Solutions/733_Flood_Fill.py)
+- [542. 01 Matrix](./Solutions/542_01_Matrix.py)
 
 
 ### Hashmap
@@ -68,6 +73,7 @@ A collection of my solutions to LeetCode problems.
 - [202. Happy Number](./Solutions/202_Happy_Number.py)
 - [219. Contains Duplicate II](./Solutions/219_Contains_Duplicate_II.py)
 - [128. Longest Consecutive Sequence](./Solutions/128_Longest_Consecutive_Sequence.py)
+- [409. Longest Palindrome](./Solutions/409_Longest_Palindrome.py)
 
 
 ### Intervals
@@ -86,6 +92,7 @@ A collection of my solutions to LeetCode problems.
 - [739. Daily Temperatures](./Solutions/739_Daily_Temperatures.py)
 - [853. Car Fleet](./Solutions/853_Car_Fleet.py)
 - [84. Largest Rectangle in Histogram](./Solutions/84_Largest_Rectangle_in_Histogram.py)
+- [232. Implement Queue using Stacks](./Solutions/232_Implement_Queue_using_Stacks.py)
 
 
 ### Linked List
@@ -103,6 +110,7 @@ A collection of my solutions to LeetCode problems.
 - [206. Reverse Linked List](./Solutions/206_Reverse_Linked_List.py)
 - [143. Reorder List](./Solutions/143_Reorder_List.py)
 - [287. Find the Duplicate Number](./Solutions/287_Find_the_Duplicate_Number.py)
+- [876. Middle of the Linked List](./Solutions/876_Middle_of_the_Linked_List.py)
 
 
 ### Binary Tree General
@@ -153,6 +161,7 @@ A collection of my solutions to LeetCode problems.
 - [994. Rotting Oranges](./Solutions/994_Rotting_Oranges.py)
 - [417. Pacific Atlantic Water Flow](./Solutions/417_Pacific_Atlantic_Water_Flow.py)
 - [684. Redundant Connection](./Solutions/684_Redundant_Connection.py)
+- [310. Minimum Height Trees](./Solutions/310_Minimum_Height_Trees.py)
 
 
 ### Graph BFS
@@ -205,6 +214,7 @@ A collection of my solutions to LeetCode problems.
 - [704. Binary Search](./Solutions/704_Binary_Search.py)
 - [875. Koko Eating Bananas](./Solutions/875_Koko_Eating_Bananas.py)
 - [981. Time Based Key-Value Store](./Solutions/981_Time_Based_Key-Value_Store.py)
+- [278. First Bad Version](./Solutions/278_First_Bad_Version.py)
 
 
 ### Heap
@@ -255,6 +265,7 @@ A collection of my solutions to LeetCode problems.
 - [62. Unique Paths](./Solutions/62_Unique_Paths.py)
 - [338. Counting Bits](./Solutions/338_Counting_Bits.py)
 - [1143. Longest Common Subsequence](./Solutions/1143_Longest_Common_Subsequence.py)
+- [1235. Maximum Profit in Job Scheduling](./Solutions/1235_Maximum_Profit_in_Job_Scheduling.py)
 
 
 ### Multidimensional DP
@@ -272,3 +283,7 @@ A collection of my solutions to LeetCode problems.
 - [1899. Merge Triplets to Form Target Triplet](./Solutions/1899_Merge_Triplets_to_Form_Target_Triplet.py)
 - [763. Partition Labels](./Solutions/763_Partition_Labels.py)
 - [678. Valid Parenthesis String](./Solutions/678_Valid_Parenthesis_String.py)
+
+
+### Union Find
+- [721. Accounts Merge](./Solutions/721_Accounts_Merge.py)
