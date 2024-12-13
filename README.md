@@ -32,6 +32,7 @@ A collection of my solutions to LeetCode problems.
 - [347. Top K Frequent Elements](./Solutions/347_Top_K_Frequent_Elements.py)
 - [75. Sort Colors](./Solutions/75_Sort_Colors.py)
 - [8. String to Integer (atoi)](./Solutions/8_String_to_Integer_(atoi).py)
+- [274. H-Index](./Solutions/274_H-Index.py)
 
 
 ### Two Pointers
@@ -74,6 +75,7 @@ A collection of my solutions to LeetCode problems.
 - [219. Contains Duplicate II](./Solutions/219_Contains_Duplicate_II.py)
 - [128. Longest Consecutive Sequence](./Solutions/128_Longest_Consecutive_Sequence.py)
 - [409. Longest Palindrome](./Solutions/409_Longest_Palindrome.py)
+- [2013. Detect Squares](./Solutions/2013_Detect_Squares.py)
 
 
 ### Intervals
@@ -162,6 +164,7 @@ A collection of my solutions to LeetCode problems.
 - [417. Pacific Atlantic Water Flow](./Solutions/417_Pacific_Atlantic_Water_Flow.py)
 - [684. Redundant Connection](./Solutions/684_Redundant_Connection.py)
 - [310. Minimum Height Trees](./Solutions/310_Minimum_Height_Trees.py)
+- [787. Cheapest Flights Within K Stops](./Solutions/787_Cheapest_Flights_Within_K_Stops.py)
 
 
 ### Graph BFS
@@ -227,6 +230,8 @@ A collection of my solutions to LeetCode problems.
 - [973. K Closest Points to Origin](./Solutions/973_K_Closest_Points_to_Origin.py)
 - [621. Task Scheduler](./Solutions/621_Task_Scheduler.py)
 - [355. Design Twitter](./Solutions/355_Design_Twitter.py)
+- [1584. Min Cost to Connect All Points](./Solutions/1584_Min_Cost_to_Connect_All_Points.py)
+- [743. Network Delay Time](./Solutions/743_Network_Delay_Time.py)
 
 
 ### Bit Manipulation
@@ -247,6 +252,8 @@ A collection of my solutions to LeetCode problems.
 - [50. Pow(x, n)](./Solutions/50_Pow(x_n).py)
 - [149. Max Points on a Line](./Solutions/149_Max_Points_on_a_Line.py)
 - [268. Missing Number](./Solutions/268_Missing_Number.py)
+- [7. Reverse Integer](./Solutions/7_Reverse_Integer.py)
+- [43. Multiply Strings](./Solutions/43_Multiply_Strings.py)
 
 
 ### 1D DP
@@ -276,6 +283,9 @@ A collection of my solutions to LeetCode problems.
 - [97. Interleaving String](./Solutions/97_Interleaving_String.py)
 - [72. Edit Distance](./Solutions/72_Edit_Distance.py)
 - [221. Maximal Square](./Solutions/221_Maximal_Square.py)
+- [123. Best Time to Buy and Sell Stock III](./Solutions/123_Best_Time_to_Buy_and_Sell_Stock_III.py)
+- [188. Best Time to Buy and Sell Stock IV](./Solutions/188_Best_Time_to_Buy_and_Sell_Stock_IV.py)
+- [10. Regular Expression Matching](./Solutions/10_Regular_Expression_Matching.py)
 
 
 ### Greedy
@@ -287,3 +297,7 @@ A collection of my solutions to LeetCode problems.
 
 ### Union Find
 - [721. Accounts Merge](./Solutions/721_Accounts_Merge.py)
+
+
+### Depth First Search
+- [309. Best Time to Buy and Sell Stock with Cooldown](./Solutions/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.py)
