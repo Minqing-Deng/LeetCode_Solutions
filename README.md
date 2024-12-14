@@ -83,6 +83,7 @@ A collection of my solutions to LeetCode problems.
 - [56. Merge Intervals](./Solutions/56_Merge_Intervals.py)
 - [57. Insert Interval](./Solutions/57_Insert_Interval.py)
 - [452. Minimum Number of Arrows to Burst Balloons](./Solutions/452_Minimum_Number_of_Arrows_to_Burst_Balloons.py)
+- [1851. Minimum Interval to Include Each Query](./Solutions/1851_Minimum_Interval_to_Include_Each_Query.py)
 
 
 ### Stack
@@ -150,6 +151,7 @@ A collection of my solutions to LeetCode problems.
 - [530. Minimum Absolute Difference in BST](./Solutions/530_Minimum_Absolute_Difference_in_BST.py)
 - [230. Kth Smallest Element in a BST](./Solutions/230_Kth_Smallest_Element_in_a_BST.py)
 - [98. Validate Binary Search Tree](./Solutions/98_Validate_Binary_Search_Tree.py)
+- [450. Delete Node in a BST](./Solutions/450_Delete_Node_in_a_BST.py)
 
 
 ### Graph General
@@ -171,6 +173,11 @@ A collection of my solutions to LeetCode problems.
 - [909. Snakes and Ladders](./Solutions/909_Snakes_and_Ladders.py)
 - [433. Minimum Genetic Mutation](./Solutions/433_Minimum_Genetic_Mutation.py)
 - [127. Word Ladder](./Solutions/127_Word_Ladder.py)
+
+
+### Advanced Graph
+- [778. Swim in Rising Water](./Solutions/778_Swim_in_Rising_Water.py)
+- [332. Reconstruct Itinerary](./Solutions/332_Reconstruct_Itinerary.py)
 
 
 ### Trie
@@ -286,6 +293,9 @@ A collection of my solutions to LeetCode problems.
 - [123. Best Time to Buy and Sell Stock III](./Solutions/123_Best_Time_to_Buy_and_Sell_Stock_III.py)
 - [188. Best Time to Buy and Sell Stock IV](./Solutions/188_Best_Time_to_Buy_and_Sell_Stock_IV.py)
 - [10. Regular Expression Matching](./Solutions/10_Regular_Expression_Matching.py)
+- [312. Burst Balloons](./Solutions/312_Burst_Balloons.py)
+- [115. Distinct Subsequences](./Solutions/115_Distinct_Subsequences.py)
+- [329. Longest Increasing Path in a Matrix](./Solutions/329_Longest_Increasing_Path_in_a_Matrix.py)
 
 
 ### Greedy
