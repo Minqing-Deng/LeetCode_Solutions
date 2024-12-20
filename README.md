@@ -114,6 +114,7 @@ A collection of my solutions to LeetCode problems.
 - [143. Reorder List](./Solutions/143_Reorder_List.py)
 - [287. Find the Duplicate Number](./Solutions/287_Find_the_Duplicate_Number.py)
 - [876. Middle of the Linked List](./Solutions/876_Middle_of_the_Linked_List.py)
+- [707. Design Linked List](./Solutions/707_Design_Linked_List.py)
 
 
 ### Binary Tree General
@@ -190,6 +191,7 @@ A collection of my solutions to LeetCode problems.
 - [17. Letter Combinations of a Phone Number](./Solutions/17_Letter_Combinations_of_a_Phone_Number.py)
 - [77. Combinations](./Solutions/77_Combinations.py)
 - [46. Permutations](./Solutions/46_Permutations.py)
+- [47. Permutations II](./Solutions/47_Permutations_II.py)
 - [39. Combination Sum](./Solutions/39_Combination_Sum.py)
 - [52. N-Queens II](./Solutions/52_N-Queens_II.py)
 - [22. Generate Parentheses](./Solutions/22_Generate_Parentheses.py)
@@ -218,6 +220,7 @@ A collection of my solutions to LeetCode problems.
 - [74. Search a 2D Matrix](./Solutions/74_Search_a_2D_Matrix.py)
 - [162. Find Peak Element](./Solutions/162_Find_Peak_Element.py)
 - [33. Search in Rotated Sorted Array](./Solutions/33_Search_in_Rotated_Sorted_Array.py)
+- [81. Search in Rotated Sorted Array II](./Solutions/81_Search_in_Rotated_Sorted_Array_II.py)
 - [34. Find First and Last Position of Element in Sorted Array](./Solutions/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)
 - [153. Find Minimum in Rotated Sorted Array](./Solutions/153_Find_Minimum_in_Rotated_Sorted_Array.py)
 - [4. Median of Two Sorted Arrays](./Solutions/4_Median_of_Two_Sorted_Arrays.py)
@@ -286,6 +289,7 @@ A collection of my solutions to LeetCode problems.
 - [120. Triangle](./Solutions/120_Triangle.py)
 - [64. Minimum Path Sum](./Solutions/64_Minimum_Path_Sum.py)
 - [63. Unique Paths II](./Solutions/63_Unique_Paths_II.py)
+- [980. Unique Paths III](./Solutions/980_Unique_Paths_III.py)
 - [5. Longest Palindromic Substring](./Solutions/5_Longest_Palindromic_Substring.py)
 - [97. Interleaving String](./Solutions/97_Interleaving_String.py)
 - [72. Edit Distance](./Solutions/72_Edit_Distance.py)
