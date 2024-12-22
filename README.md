@@ -10,6 +10,7 @@ A collection of my solutions to LeetCode problems.
 - [26. Remove Duplicates from Sorted Array](./Solutions/26_Remove_Duplicates_from_Sorted_Array.py)
 - [80. Remove Duplicates from Sorted Array II](./Solutions/80_Remove_Duplicates_from_Sorted_Array_II.py)
 - [169. Majority Element](./Solutions/169_Majority_Element.py)
+- [229. Majority Element II](./Solutions/229_Majority_Element_II.py)
 - [189. Rotate Array](./Solutions/189_Rotate_Array.py)
 - [121. Best Time to Buy and Sell Stock](./Solutions/121_Best_Time_to_Buy_and_Sell_Stock.py)
 - [122. Best Time to Buy and Sell Stock II](./Solutions/122_Best_Time_to_Buy_and_Sell_Stock_II.py)
@@ -52,6 +53,7 @@ A collection of my solutions to LeetCode problems.
 - [567. Permutation in String](./Solutions/567_Permutation_in_String.py)
 - [239. Sliding Window Maximum](./Solutions/239_Sliding_Window_Maximum.py)
 - [438. Find All Anagrams in a String](./Solutions/438_Find_All_Anagrams_in_a_String.py)
+- [220. Contains Duplicate III](./Solutions/220_Contains_Duplicate_III.py)
 
 
 ### Matrix
@@ -174,6 +176,7 @@ A collection of my solutions to LeetCode problems.
 - [909. Snakes and Ladders](./Solutions/909_Snakes_and_Ladders.py)
 - [433. Minimum Genetic Mutation](./Solutions/433_Minimum_Genetic_Mutation.py)
 - [127. Word Ladder](./Solutions/127_Word_Ladder.py)
+- [126. Word Ladder II](./Solutions/126_Word_Ladder_II.py)
 
 
 ### Advanced Graph
@@ -300,6 +303,7 @@ A collection of my solutions to LeetCode problems.
 - [312. Burst Balloons](./Solutions/312_Burst_Balloons.py)
 - [115. Distinct Subsequences](./Solutions/115_Distinct_Subsequences.py)
 - [329. Longest Increasing Path in a Matrix](./Solutions/329_Longest_Increasing_Path_in_a_Matrix.py)
+- [494. Target Sum](./Solutions/494_Target_Sum.py)
 
 
 ### Greedy
