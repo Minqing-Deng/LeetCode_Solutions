@@ -98,6 +98,7 @@ A collection of my solutions to LeetCode problems.
 - [853. Car Fleet](./Solutions/853_Car_Fleet.py)
 - [84. Largest Rectangle in Histogram](./Solutions/84_Largest_Rectangle_in_Histogram.py)
 - [232. Implement Queue using Stacks](./Solutions/232_Implement_Queue_using_Stacks.py)
+- [225. Implement Stack using Queues](./Solutions/225_Implement_Stack_using_Queues.py)
 
 
 ### Linked List
@@ -253,6 +254,7 @@ A collection of my solutions to LeetCode problems.
 - [191. Number of 1 Bits](./Solutions/191_Number_of_1_Bits.py)
 - [136. Single Number](./Solutions/136_Single_Number.py)
 - [137. Single Number II](./Solutions/137_Single_Number_II.py)
+- [260. Single Number III](./Solutions/260_Single_Number_III.py)
 - [201. Bitwise AND of Numbers Range](./Solutions/201_Bitwise_AND_of_Numbers_Range.py)
 - [371. Sum of Two Integers](./Solutions/371_Sum_of_Two_Integers.java)
 
@@ -273,10 +275,12 @@ A collection of my solutions to LeetCode problems.
 - [70. Climbing Stairs](./Solutions/70_Climbing_Stairs.py)
 - [198. House Robber](./Solutions/198_House_Robber.py)
 - [139. Word Break](./Solutions/139_Word_Break.py)
+- [140. Word Break II](./Solutions/140_Word_Break_II.py)
 - [322. Coin Change](./Solutions/322_Coin_Change.py)
 - [300. Longest Increasing Subsequence](./Solutions/300_Longest_Increasing_Subsequence.py)
 - [746. Min Cost Climbing Stairs](./Solutions/746_Min_Cost_Climbing_Stairs.py)
 - [213. House Robber II](./Solutions/213_House_Robber_II.py)
+- [337. House Robber III](./Solutions/337_House_Robber_III.py)
 - [647. Palindromic Substrings](./Solutions/647_Palindromic_Substrings.py)
 - [91. Decode Ways](./Solutions/91_Decode_Ways.py)
 - [152. Maximum Product Subarray](./Solutions/152_Maximum_Product_Subarray.py)
