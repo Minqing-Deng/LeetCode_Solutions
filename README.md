@@ -203,6 +203,8 @@ A collection of my solutions to LeetCode problems.
 - [78. Subsets](./Solutions/78_Subsets.py)
 - [90. Subsets II](./Solutions/90_Subsets_II.py)
 - [40. Combination Sum II](./Solutions/40_Combination_Sum_II.py)
+- [216. Combination Sum III](./Solutions/216_Combination_Sum_III.py)
+- [377. Combination Sum IV](./Solutions/377_Combination_Sum_IV.py)
 - [131. Palindrome Partitioning](./Solutions/131_Palindrome_Partitioning.py)
 - [51. N-Queens](./Solutions/51_N-Queens.py)
 
