@@ -171,6 +171,8 @@ A collection of my solutions to LeetCode problems.
 - [684. Redundant Connection](./Solutions/684_Redundant_Connection.py)
 - [310. Minimum Height Trees](./Solutions/310_Minimum_Height_Trees.py)
 - [787. Cheapest Flights Within K Stops](./Solutions/787_Cheapest_Flights_Within_K_Stops.py)
+- [261. Graph Valid Tree](./Solutions/261_Graph_Valid_Tree.py)
+- [323. Number of Connected Components In An Undirected Graph](./Solutions/323_Number_of_Connected_Components_In_An_Undirected_Graph.py)
 
 
 ### Graph BFS
@@ -178,6 +180,7 @@ A collection of my solutions to LeetCode problems.
 - [433. Minimum Genetic Mutation](./Solutions/433_Minimum_Genetic_Mutation.py)
 - [127. Word Ladder](./Solutions/127_Word_Ladder.py)
 - [126. Word Ladder II](./Solutions/126_Word_Ladder_II.py)
+- [286. Walls And Gates](./Solutions/286_Walls_And_Gates.py)
 
 
 ### Advanced Graph
