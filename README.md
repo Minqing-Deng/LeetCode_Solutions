@@ -196,6 +196,7 @@ A collection of my solutions to LeetCode problems.
 ### Advanced Graph
 - [778. Swim in Rising Water](./Solutions/778_Swim_in_Rising_Water.py)
 - [332. Reconstruct Itinerary](./Solutions/332_Reconstruct_Itinerary.py)
+- [269. Alien Dictionary](./Solutions/269_Alien_Dictionary.py)
 
 
 ### Trie
