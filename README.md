@@ -14,8 +14,6 @@ A collection of my solutions to LeetCode problems.
 - [189. Rotate Array](./Solutions/189_Rotate_Array.py)
 - [121. Best Time to Buy and Sell Stock](./Solutions/121_Best_Time_to_Buy_and_Sell_Stock.py)
 - [122. Best Time to Buy and Sell Stock II](./Solutions/122_Best_Time_to_Buy_and_Sell_Stock_II.py)
-- [55. Jump Game](./Solutions/55_Jump_Game.py)
-- [45. Jump Game II](./Solutions/45_Jump_Game_II.py)
 - [380. Insert Delete GetRandom O(1)](./Solutions/380_Insert_Delete_GetRandom_O(1).py)
 - [238. Product of Array Except Self](./Solutions/238_Product_of_Array_Except_Self.py)
 - [134. Gas Station](./Solutions/134_Gas_Station.py)
@@ -337,6 +335,8 @@ A collection of my solutions to LeetCode problems.
 - [1899. Merge Triplets to Form Target Triplet](./Solutions/1899_Merge_Triplets_to_Form_Target_Triplet.py)
 - [763. Partition Labels](./Solutions/763_Partition_Labels.py)
 - [678. Valid Parenthesis String](./Solutions/678_Valid_Parenthesis_String.py)
+- [55. Jump Game](./Solutions/55_Jump_Game.py)
+- [45. Jump Game II](./Solutions/45_Jump_Game_II.py)
 
 
 ### Union Find
