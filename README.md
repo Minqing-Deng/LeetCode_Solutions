@@ -88,6 +88,7 @@ A collection of my solutions to LeetCode problems.
 - [1851. Minimum Interval to Include Each Query](./Solutions/1851_Minimum_Interval_to_Include_Each_Query.py)
 - [252. Meeting Rooms](./Solutions/252_Meeting_Rooms.py)
 - [253. Meeting Rooms II](./Solutions/253_Meeting_Rooms_II.py)
+- [435. Non-overlapping Intervals](./Solutions/435_Non-overlapping_Intervals.py)
 
 
 ### Stack
@@ -121,6 +122,7 @@ A collection of my solutions to LeetCode problems.
 - [876. Middle of the Linked List](./Solutions/876_Middle_of_the_Linked_List.py)
 - [707. Design Linked List](./Solutions/707_Design_Linked_List.py)
 - [83. Remove Duplicates from Sorted List](./Solutions/83_Remove_Duplicates_from_Sorted_List.py)
+- [705. Design HashSet](./Solutions/705_Design_HashSet.py)
 
 
 ### Binary Tree General
@@ -130,6 +132,7 @@ A collection of my solutions to LeetCode problems.
 - [101. Symmetric Tree](./Solutions/101_Symmetric_Tree.py)
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](./Solutions/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py)
 - [106. Construct Binary Tree from Inorder and Postorder Traversal](./Solutions/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.py)
+- [116. Populating Next Right Pointers in Each Node](./Solutions/116_Populating_Next_Right_Pointers_in_Each_Node.py)
 - [117. Populating Next Right Pointers in Each Node II](./Solutions/117_Populating_Next_Right_Pointers_in_Each_Node_II.py)
 - [114. Flatten Binary Tree to Linked List](./Solutions/114_Flatten_Binary_Tree_to_Linked_List.py)
 - [112. Path Sum](./Solutions/112_Path_Sum.py)
@@ -137,16 +140,15 @@ A collection of my solutions to LeetCode problems.
 - [124. Binary Tree Maximum Path Sum](./Solutions/124_Binary_Tree_Maximum_Path_Sum.py)
 - [173. Binary Search Tree Iterator](./Solutions/173_Binary_Search_Tree_Iterator.py)
 - [222. Count Complete Tree Nodes](./Solutions/222_Count_Complete_Tree_Nodes.py)
+- [235. Lowest Common Ancestor of a Binary Search Tree](./Solutions/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py)
 - [236. Lowest Common Ancestor of a Binary Tree](./Solutions/236_Lowest_Common_Ancestor_of_a_Binary_Tree.py)
 - [543. Diameter of Binary Tree](./Solutions/543_Diameter_of_Binary_Tree.py)
 - [110. Balanced Binary Tree](./Solutions/110_Balanced_Binary_Tree.py)
 - [572. Subtree of Another Tree](./Solutions/572_Subtree_of_Another_Tree.py)
-- [235. Lowest Common Ancestor of a Binary Search Tree](./Solutions/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py)
 - [1448. Count Good Nodes in Binary Tree](./Solutions/1448_Count_Good_Nodes_in_Binary_Tree.py)
 - [297. Serialize and Deserialize Binary Tree](./Solutions/297_Serialize_and_Deserialize_Binary_Tree.py)
 - [449. Serialize and Deserialize BST](./Solutions/449_Serialize_and_Deserialize_BST.py)
 - [94. Binary Tree Inorder Traversal](./Solutions/94_Binary_Tree_Inorder_Traversal.py)
-- [116. Populating Next Right Pointers in Each Node](./Solutions/116_Populating_Next_Right_Pointers_in_Each_Node.py)
 
 
 ### Binary Tree BFS
@@ -208,17 +210,17 @@ A collection of my solutions to LeetCode problems.
 - [77. Combinations](./Solutions/77_Combinations.py)
 - [46. Permutations](./Solutions/46_Permutations.py)
 - [47. Permutations II](./Solutions/47_Permutations_II.py)
-- [39. Combination Sum](./Solutions/39_Combination_Sum.py)
-- [52. N-Queens II](./Solutions/52_N-Queens_II.py)
-- [22. Generate Parentheses](./Solutions/22_Generate_Parentheses.py)
-- [79. Word Search](./Solutions/79_Word_Search.py)
 - [78. Subsets](./Solutions/78_Subsets.py)
 - [90. Subsets II](./Solutions/90_Subsets_II.py)
+- [39. Combination Sum](./Solutions/39_Combination_Sum.py)
 - [40. Combination Sum II](./Solutions/40_Combination_Sum_II.py)
 - [216. Combination Sum III](./Solutions/216_Combination_Sum_III.py)
-- [377. Combination Sum IV](./Solutions/377_Combination_Sum_IV.py)
+- [22. Generate Parentheses](./Solutions/22_Generate_Parentheses.py)
+- [79. Word Search](./Solutions/79_Word_Search.py)
 - [131. Palindrome Partitioning](./Solutions/131_Palindrome_Partitioning.py)
 - [51. N-Queens](./Solutions/51_N-Queens.py)
+- [52. N-Queens II](./Solutions/52_N-Queens_II.py)
+- [377. Combination Sum IV](./Solutions/377_Combination_Sum_IV.py)
 
 
 ### Divide & Conquer
@@ -234,30 +236,34 @@ A collection of my solutions to LeetCode problems.
 
 
 ### Binary Search
-- [35. Search Insert Position](./Solutions/35_Search_Insert_Position.py)
-- [74. Search a 2D Matrix](./Solutions/74_Search_a_2D_Matrix.py)
-- [162. Find Peak Element](./Solutions/162_Find_Peak_Element.py)
+- [704. Binary Search](./Solutions/704_Binary_Search.py)
+- [374. Guess Number Higher or Lower](./Solutions/374_Guess_Number_Higher_or_Lower.py)
+- [69. Sqrt(x)](./Solutions/69_Sqrt(x).py)
 - [33. Search in Rotated Sorted Array](./Solutions/33_Search_in_Rotated_Sorted_Array.py)
 - [81. Search in Rotated Sorted Array II](./Solutions/81_Search_in_Rotated_Sorted_Array_II.py)
-- [34. Find First and Last Position of Element in Sorted Array](./Solutions/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)
 - [153. Find Minimum in Rotated Sorted Array](./Solutions/153_Find_Minimum_in_Rotated_Sorted_Array.py)
-- [4. Median of Two Sorted Arrays](./Solutions/4_Median_of_Two_Sorted_Arrays.py)
-- [704. Binary Search](./Solutions/704_Binary_Search.py)
+- [278. First Bad Version](./Solutions/278_First_Bad_Version.py)
+- [162. Find Peak Element](./Solutions/162_Find_Peak_Element.py)
+- [34. Find First and Last Position of Element in Sorted Array](./Solutions/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)
+- [35. Search Insert Position](./Solutions/35_Search_Insert_Position.py)
+- [74. Search a 2D Matrix](./Solutions/74_Search_a_2D_Matrix.py)
+- [658. Find K Closest Elements](./Solutions/658_Find_K_Closest_Elements.py)
 - [875. Koko Eating Bananas](./Solutions/875_Koko_Eating_Bananas.py)
 - [981. Time Based Key-Value Store](./Solutions/981_Time_Based_Key-Value_Store.py)
-- [278. First Bad Version](./Solutions/278_First_Bad_Version.py)
-- [278. First Bad Version](./Solutions/278_First_Bad_Version.py)
-- [374. Guess Number Higher or Lower](./Solutions/374_Guess_Number_Higher_or_Lower.py)
+- [4. Median of Two Sorted Arrays](./Solutions/4_Median_of_Two_Sorted_Arrays.py)
+
+
+### Sorting
+- [215. Kth Largest Element in an Array](./Solutions/215_Kth_Largest_Element_in_an_Array.py)
+- [973. K Closest Points to Origin](./Solutions/973_K_Closest_Points_to_Origin.py)
 
 
 ### Heap
-- [215. Kth Largest Element in an Array](./Solutions/215_Kth_Largest_Element_in_an_Array.py)
 - [502. IPO](./Solutions/502_IPO.py)
 - [373. Find K Pairs with Smallest Sums](./Solutions/373_Find_K_Pairs_with_Smallest_Sums.py)
 - [295. Find Median from Data Stream](./Solutions/295_Find_Median_from_Data_Stream.py)
 - [703. Kth Largest Element in a Stream](./Solutions/703_Kth_Largest_Element_in_a_Stream.py)
 - [1046. Last Stone Weight](./Solutions/1046_Last_Stone_Weight.py)
-- [973. K Closest Points to Origin](./Solutions/973_K_Closest_Points_to_Origin.py)
 - [621. Task Scheduler](./Solutions/621_Task_Scheduler.py)
 - [355. Design Twitter](./Solutions/355_Design_Twitter.py)
 - [1584. Min Cost to Connect All Points](./Solutions/1584_Min_Cost_to_Connect_All_Points.py)
@@ -279,7 +285,6 @@ A collection of my solutions to LeetCode problems.
 - [9. Palindrome Number](./Solutions/9_Palindrome_Number.py)
 - [66. Plus One](./Solutions/66_Plus_One.py)
 - [172. Factorial Trailing Zeroes](./Solutions/172_Factorial_Trailing_Zeroes.py)
-- [69. Sqrt(x)](./Solutions/69_Sqrt(x).py)
 - [50. Pow(x, n)](./Solutions/50_Pow(x_n).py)
 - [149. Max Points on a Line](./Solutions/149_Max_Points_on_a_Line.py)
 - [268. Missing Number](./Solutions/268_Missing_Number.py)
@@ -291,28 +296,27 @@ A collection of my solutions to LeetCode problems.
 - [70. Climbing Stairs](./Solutions/70_Climbing_Stairs.py)
 - [509. Fibonacci Number](./Solutions/509_Fibonacci_Number.py)
 - [198. House Robber](./Solutions/198_House_Robber.py)
+- [213. House Robber II](./Solutions/213_House_Robber_II.py)
+- [337. House Robber III](./Solutions/337_House_Robber_III.py)
 - [139. Word Break](./Solutions/139_Word_Break.py)
 - [140. Word Break II](./Solutions/140_Word_Break_II.py)
 - [322. Coin Change](./Solutions/322_Coin_Change.py)
-- [518. Coin Change II](./Solutions/518_Coin_Change_II.py)
 - [300. Longest Increasing Subsequence](./Solutions/300_Longest_Increasing_Subsequence.py)
 - [746. Min Cost Climbing Stairs](./Solutions/746_Min_Cost_Climbing_Stairs.py)
-- [213. House Robber II](./Solutions/213_House_Robber_II.py)
-- [337. House Robber III](./Solutions/337_House_Robber_III.py)
 - [647. Palindromic Substrings](./Solutions/647_Palindromic_Substrings.py)
 - [91. Decode Ways](./Solutions/91_Decode_Ways.py)
 - [152. Maximum Product Subarray](./Solutions/152_Maximum_Product_Subarray.py)
 - [416. Partition Equal Subset Sum](./Solutions/416_Partition_Equal_Subset_Sum.py)
-- [435. Non-overlapping Intervals](./Solutions/435_Non-overlapping_Intervals.py)
 - [62. Unique Paths](./Solutions/62_Unique_Paths.py)
 - [338. Counting Bits](./Solutions/338_Counting_Bits.py)
-- [1143. Longest Common Subsequence](./Solutions/1143_Longest_Common_Subsequence.py)
 - [1235. Maximum Profit in Job Scheduling](./Solutions/1235_Maximum_Profit_in_Job_Scheduling.py)
 - [516. Longest Palindromic Subsequence](./Solutions/516_Longest_Palindromic_Subsequence.py)
 - [1911. Maximum Alternating Subsequence Sum](./Solutions/1911_Maximum_Alternating_Subsequence_Sum.py)
 
 
 ### Multidimensional DP
+- [518. Coin Change II](./Solutions/518_Coin_Change_II.py)
+- [1143. Longest Common Subsequence](./Solutions/1143_Longest_Common_Subsequence.py)
 - [120. Triangle](./Solutions/120_Triangle.py)
 - [64. Minimum Path Sum](./Solutions/64_Minimum_Path_Sum.py)
 - [63. Unique Paths II](./Solutions/63_Unique_Paths_II.py)
@@ -341,6 +345,7 @@ A collection of my solutions to LeetCode problems.
 
 ### Union Find
 - [721. Accounts Merge](./Solutions/721_Accounts_Merge.py)
+- [684. Redundant Connection](./Solutions/684_Redundant_Connection.py)
 
 
 ### Depth First Search
