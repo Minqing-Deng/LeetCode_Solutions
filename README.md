@@ -333,6 +333,7 @@ A collection of my solutions to LeetCode problems.
 - [115. Distinct Subsequences](./Solutions/115_Distinct_Subsequences.py)
 - [329. Longest Increasing Path in a Matrix](./Solutions/329_Longest_Increasing_Path_in_a_Matrix.py)
 - [494. Target Sum](./Solutions/494_Target_Sum.py)
+- [3176. Find the Maximum Length of a Good Subsequence I](./Solutions/3176_Find_the_Maximum_Length_of_a_Good_Subsequence_I.py)
 
 
 ### Greedy
