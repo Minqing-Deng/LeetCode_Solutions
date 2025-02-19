@@ -268,6 +268,7 @@ A collection of my solutions to LeetCode problems.
 - [355. Design Twitter](./Solutions/355_Design_Twitter.py)
 - [1584. Min Cost to Connect All Points](./Solutions/1584_Min_Cost_to_Connect_All_Points.py)
 - [743. Network Delay Time](./Solutions/743_Network_Delay_Time.py)
+- [1962. Remove Stones to Minimize the Total](./Solutions/1962_Remove_Stones_to_Minimize_the_Total.py)
 
 
 ### Bit Manipulation
