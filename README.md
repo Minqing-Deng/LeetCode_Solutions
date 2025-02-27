@@ -335,6 +335,7 @@ A collection of my solutions to LeetCode problems.
 - [494. Target Sum](./Solutions/494_Target_Sum.py)
 - [3176. Find the Maximum Length of a Good Subsequence I](./Solutions/3176_Find_the_Maximum_Length_of_a_Good_Subsequence_I.py)
 - [1220. Count Vowels Permutation](./Solutions/1220_Count_Vowels_Permutation.py)
+- [1639. Number of Ways to Form a Target String Given a Dictionary](./Solutions/1639_Number_of_Ways_to_Form_a_Target_String_Given_a_Dictionary.py)
 
 
 ### Greedy
