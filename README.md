@@ -33,6 +33,8 @@ A collection of my solutions to LeetCode problems.
 - [8. String to Integer (atoi)](./Solutions/8_String_to_Integer_(atoi).py)
 - [274. H-Index](./Solutions/274_H-Index.py)
 - [1929. Concatenation of Array](./Solutions/1929_Concatenation_of_Array.py)
+- [560. Subarray Sum Equals K](./Solutions/560_Subarray_Sum_Equals_K.py)
+- [41. First Missing Positive](./Solutions/41_First_Missing_Positive.py)
 
 
 ### Two Pointers
@@ -64,6 +66,7 @@ A collection of my solutions to LeetCode problems.
 - [289. Game of Life](./Solutions/289_Game_of_Life.py)
 - [733. Flood Fill](./Solutions/733_Flood_Fill.py)
 - [542. 01 Matrix](./Solutions/542_01_Matrix.py)
+- [304. Range Sum Query 2D - Immutable](./Solutions/304_Range_Sum_Query 2D_Immutable.py)
 
 
 ### Hashmap
@@ -123,6 +126,7 @@ A collection of my solutions to LeetCode problems.
 - [707. Design Linked List](./Solutions/707_Design_Linked_List.py)
 - [83. Remove Duplicates from Sorted List](./Solutions/83_Remove_Duplicates_from_Sorted_List.py)
 - [705. Design HashSet](./Solutions/705_Design_HashSet.py)
+- [706. Design HashMap](./Solutions/706_Design_HashMap.py)
 
 
 ### Binary Tree General
@@ -228,6 +232,7 @@ A collection of my solutions to LeetCode problems.
 - [148. Sort List](./Solutions/148_Sort_List.py)
 - [427. Construct Quad Tree](./Solutions/427_Construct_Quad_Tree.py)
 - [23. Merge k Sorted Lists](./Solutions/23_Merge_k_Sorted_Lists.py)
+- [912. Sort an Array](./Solutions/912_Sort_an_Array.py)
 
 
 ### Kadane's Algorithm
