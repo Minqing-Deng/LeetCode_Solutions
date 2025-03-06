@@ -43,6 +43,10 @@ A collection of my solutions to LeetCode problems.
 - [167. Two Sum II - Input Array Is Sorted](./Solutions/167_Two_Sum_II_Input_Array_Is_Sorted.py)
 - [11. Container With Most Water](./Solutions/11_Container_With_Most_Water.py)
 - [15. 3Sum](./Solutions/15_3Sum.py)
+- [18. 4Sum](./Solutions/18_4Sum.py)
+- [344. Reverse String](./Solutions/344_Reverse_String.py)
+- [680. Valid Palindrome II](./Solutions/680_Valid_Palindrome_II.py)
+- [1768. Merge Strings Alternately](./Solutions/1768_Merge_Strings_Alternately.py)
 
 
 ### Sliding Window
