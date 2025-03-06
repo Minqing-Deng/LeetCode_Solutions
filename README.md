@@ -47,6 +47,7 @@ A collection of my solutions to LeetCode problems.
 - [344. Reverse String](./Solutions/344_Reverse_String.py)
 - [680. Valid Palindrome II](./Solutions/680_Valid_Palindrome_II.py)
 - [1768. Merge Strings Alternately](./Solutions/1768_Merge_Strings_Alternately.py)
+- [881. Boats to Save People](./Solutions/881_Boats_to_Save_People.py)
 
 
 ### Sliding Window
@@ -109,6 +110,8 @@ A collection of my solutions to LeetCode problems.
 - [84. Largest Rectangle in Histogram](./Solutions/84_Largest_Rectangle_in_Histogram.py)
 - [232. Implement Queue using Stacks](./Solutions/232_Implement_Queue_using_Stacks.py)
 - [225. Implement Stack using Queues](./Solutions/225_Implement_Stack_using_Queues.py)
+- [682. Baseball Game](./Solutions/682_Baseball_Game.py)
+- [735. Asteroid Collision](./Solutions/735_Asteroid_Collision.py)
 
 
 ### Linked List
