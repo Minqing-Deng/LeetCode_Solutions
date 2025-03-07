@@ -71,7 +71,7 @@ A collection of my solutions to LeetCode problems.
 - [289. Game of Life](./Solutions/289_Game_of_Life.py)
 - [733. Flood Fill](./Solutions/733_Flood_Fill.py)
 - [542. 01 Matrix](./Solutions/542_01_Matrix.py)
-- [304. Range Sum Query 2D - Immutable](./Solutions/304_Range_Sum_Query 2D_Immutable.py)
+- [304. Range Sum Query 2D - Immutable](./Solutions/304_Range_Sum_Query_2D_Immutable.py)
 
 
 ### Hashmap
