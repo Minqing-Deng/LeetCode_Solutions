@@ -112,6 +112,9 @@ A collection of my solutions to LeetCode problems.
 - [225. Implement Stack using Queues](./Solutions/225_Implement_Stack_using_Queues.py)
 - [682. Baseball Game](./Solutions/682_Baseball_Game.py)
 - [735. Asteroid Collision](./Solutions/735_Asteroid_Collision.py)
+- [901. Online Stock Span](./Solutions/901_Online_Stock_Span.py)
+- [394. Decode String](./Solutions/394_Decode_String.py)
+- [895. Maximum Frequency Stack](./Solutions/895_Maximum_Frequency_Stack.py)
 
 
 ### Linked List
@@ -263,6 +266,8 @@ A collection of my solutions to LeetCode problems.
 - [875. Koko Eating Bananas](./Solutions/875_Koko_Eating_Bananas.py)
 - [981. Time Based Key-Value Store](./Solutions/981_Time_Based_Key-Value_Store.py)
 - [4. Median of Two Sorted Arrays](./Solutions/4_Median_of_Two_Sorted_Arrays.py)
+- [1011. Capacity To Ship Packages Within D Days](./Solutions/1011_Capacity_To_Ship_Packages_Within_D_Days.py)
+- [410. Split Array Largest Sum](./Solutions/410_Split_Array_Largest_Sum.py)
 
 
 ### Sorting
