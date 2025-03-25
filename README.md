@@ -137,6 +137,7 @@ A collection of my solutions to LeetCode problems.
 - [83. Remove Duplicates from Sorted List](./Solutions/83_Remove_Duplicates_from_Sorted_List.py)
 - [705. Design HashSet](./Solutions/705_Design_HashSet.py)
 - [706. Design HashMap](./Solutions/706_Design_HashMap.py)
+- [622. Design Circular Queue](./Solutions/622_Design_Circular_Queue.py)
 
 
 ### Binary Tree General
@@ -163,6 +164,9 @@ A collection of my solutions to LeetCode problems.
 - [297. Serialize and Deserialize Binary Tree](./Solutions/297_Serialize_and_Deserialize_Binary_Tree.py)
 - [449. Serialize and Deserialize BST](./Solutions/449_Serialize_and_Deserialize_BST.py)
 - [94. Binary Tree Inorder Traversal](./Solutions/94_Binary_Tree_Inorder_Traversal.py)
+- [144. Binary Tree Preorder Traversal](./Solutions/144_Binary_Tree_Preorder_Traversal.py)
+- [145. Binary Tree Postorder Traversal](./Solutions/145_Binary_Tree_Postorder_Traversal.py)
+- [1325. Delete Leaves With a Given Value](./Solutions/1325_Delete_Leaves_With_a_Given_Value.py)
 
 
 ### Binary Tree BFS
@@ -268,6 +272,7 @@ A collection of my solutions to LeetCode problems.
 - [4. Median of Two Sorted Arrays](./Solutions/4_Median_of_Two_Sorted_Arrays.py)
 - [1011. Capacity To Ship Packages Within D Days](./Solutions/1011_Capacity_To_Ship_Packages_Within_D_Days.py)
 - [410. Split Array Largest Sum](./Solutions/410_Split_Array_Largest_Sum.py)
+- [1095. Find in Mountain Array](./Solutions/1095_Find_in_Mountain_Array.py)
 
 
 ### Sorting
@@ -286,6 +291,7 @@ A collection of my solutions to LeetCode problems.
 - [1584. Min Cost to Connect All Points](./Solutions/1584_Min_Cost_to_Connect_All_Points.py)
 - [743. Network Delay Time](./Solutions/743_Network_Delay_Time.py)
 - [1962. Remove Stones to Minimize the Total](./Solutions/1962_Remove_Stones_to_Minimize_the_Total.py)
+- [1834. Single-Threaded CPU](./Solutions/1834_ingle-Threaded_CPU.py)
 
 
 ### Bit Manipulation
