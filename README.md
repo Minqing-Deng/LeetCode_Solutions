@@ -239,6 +239,8 @@ A collection of my solutions to LeetCode problems.
 - [51. N-Queens](./Solutions/51_N-Queens.py)
 - [52. N-Queens II](./Solutions/52_N-Queens_II.py)
 - [377. Combination Sum IV](./Solutions/377_Combination_Sum_IV.py)
+- [1863. Sum of All Subset XOR Totals](./Solutions/1863_Sum_of_All_Subset_XOR_Totals.py)
+- [473. Matchsticks to Square](./Solutions/473_Matchsticks_to_Square.py)
 
 
 ### Divide & Conquer
@@ -294,6 +296,7 @@ A collection of my solutions to LeetCode problems.
 - [1834. Single-Threaded CPU](./Solutions/1834_Single-Threaded_CPU.py)
 - [767. Reorganize String](./Solutions/767_Reorganize_String.py)
 - [1405. Longest Happy String](./Solutions/1405_Longest_Happy_String.py)
+- [1094. Car Pooling](./Solutions/1094_Car_Pooling.py)
 
 
 ### Bit Manipulation
