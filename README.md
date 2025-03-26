@@ -291,7 +291,9 @@ A collection of my solutions to LeetCode problems.
 - [1584. Min Cost to Connect All Points](./Solutions/1584_Min_Cost_to_Connect_All_Points.py)
 - [743. Network Delay Time](./Solutions/743_Network_Delay_Time.py)
 - [1962. Remove Stones to Minimize the Total](./Solutions/1962_Remove_Stones_to_Minimize_the_Total.py)
-- [1834. Single-Threaded CPU](./Solutions/1834_ingle-Threaded_CPU.py)
+- [1834. Single-Threaded CPU](./Solutions/1834_Single-Threaded_CPU.py)
+- [767. Reorganize String](./Solutions/767_Reorganize_String.py)
+- [1405. Longest Happy String](./Solutions/1405_Longest_Happy_String.py)
 
 
 ### Bit Manipulation
