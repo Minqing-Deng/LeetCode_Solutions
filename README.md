@@ -203,6 +203,7 @@ A collection of my solutions to LeetCode problems.
 - [261. Graph Valid Tree](./Solutions/261_Graph_Valid_Tree.py)
 - [323. Number of Connected Components In An Undirected Graph](./Solutions/323_Number_of_Connected_Components_In_An_Undirected_Graph.py)
 - [463. Island Perimeter](./Solutions/463_Island_Perimeter.py)
+- [997. Find the Town Judge](./Solutions/997_Find_the_Town_Judge.py)
 
 
 ### Graph BFS
@@ -211,12 +212,15 @@ A collection of my solutions to LeetCode problems.
 - [127. Word Ladder](./Solutions/127_Word_Ladder.py)
 - [126. Word Ladder II](./Solutions/126_Word_Ladder_II.py)
 - [286. Walls And Gates](./Solutions/286_Walls_And_Gates.py)
+- [752. Open the Lock](./Solutions/752_Open_the_Lock.py)
+- [1462. Course Schedule IV](./Solutions/1462_Course_Schedule_IV.py)
 
 
 ### Advanced Graph
 - [778. Swim in Rising Water](./Solutions/778_Swim_in_Rising_Water.py)
 - [332. Reconstruct Itinerary](./Solutions/332_Reconstruct_Itinerary.py)
 - [269. Alien Dictionary](./Solutions/269_Alien_Dictionary.py)
+- [1631. Path With Minimum Effort](./Solutions/1631_Path_With_Minimum_Effort.py)
 
 
 ### Trie
