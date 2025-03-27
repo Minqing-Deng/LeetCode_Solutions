@@ -241,6 +241,7 @@ A collection of my solutions to LeetCode problems.
 - [377. Combination Sum IV](./Solutions/377_Combination_Sum_IV.py)
 - [1863. Sum of All Subset XOR Totals](./Solutions/1863_Sum_of_All_Subset_XOR_Totals.py)
 - [473. Matchsticks to Square](./Solutions/473_Matchsticks_to_Square.py)
+- [698. Partition to K Equal Sum Subsets](./Solutions/698_Partition_to_K_Equal_Sum_Subsets.py)
 
 
 ### Divide & Conquer
