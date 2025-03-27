@@ -86,6 +86,7 @@ A collection of my solutions to LeetCode problems.
 - [128. Longest Consecutive Sequence](./Solutions/128_Longest_Consecutive_Sequence.py)
 - [409. Longest Palindrome](./Solutions/409_Longest_Palindrome.py)
 - [2013. Detect Squares](./Solutions/2013_Detect_Squares.py)
+- [953. Verifying an Alien Dictionary](./Solutions/953_Verifying_an_Alien_Dictionary.py)
 
 
 ### Intervals
@@ -201,6 +202,7 @@ A collection of my solutions to LeetCode problems.
 - [787. Cheapest Flights Within K Stops](./Solutions/787_Cheapest_Flights_Within_K_Stops.py)
 - [261. Graph Valid Tree](./Solutions/261_Graph_Valid_Tree.py)
 - [323. Number of Connected Components In An Undirected Graph](./Solutions/323_Number_of_Connected_Components_In_An_Undirected_Graph.py)
+- [463. Island Perimeter](./Solutions/463_Island_Perimeter.py)
 
 
 ### Graph BFS
@@ -221,6 +223,7 @@ A collection of my solutions to LeetCode problems.
 - [208. Implement Trie (Prefix Tree)](./Solutions/208_Implement_Trie_(Prefix_Tree).py)
 - [211. Design Add and Search Words Data Structure](./Solutions/211_Design_Add_and_Search_Data_Structure.py)
 - [212. Word Search II](./Solutions/212_Word_Search_II.py)
+- [2707. Extra Characters in a String](./Solutions/2707_Extra_Characters_in_a_String.py)
 
 
 ### Backtracking
